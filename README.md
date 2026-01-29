@@ -19,8 +19,9 @@ Classic gameplay — reimagined for the web.
 
 - **React**
 - **Vite**
-- **JavaScript (ES6+)**
+- **TypeScript**
 - **CSS / Modern Styling**
+- **HTML**
 
 ---
 
