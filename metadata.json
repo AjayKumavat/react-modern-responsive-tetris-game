@@ -1,0 +1,5 @@
+{
+  "name": "Neon Tetris",
+  "description": "A high-performance, modern Tetris clone with sleek UI, responsive controls, and light/dark mode support.",
+  "requestFramePermissions": []
+}
