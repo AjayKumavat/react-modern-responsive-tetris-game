@@ -5,6 +5,12 @@ Classic gameplay — reimagined for the web.
 
 ---
 
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-live-link.com)
+
+---
+
 ## ✨ Highlights
 
 - 🎮 **Classic Tetris Gameplay**
