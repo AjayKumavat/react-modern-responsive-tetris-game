@@ -7,7 +7,7 @@ Classic gameplay — reimagined for the web.
 
 ## 🚀 Live Demo
 
-[![Live Demo - Neon Tetris](https://img.shields.io/badge/Live-Demo-brightgreen)]([https://your-live-link.com](https://camera-gestures-react-responsive-ha.vercel.app/))
+[![Live Demo - Neon Tetris](https://img.shields.io/badge/LIVE%20DEMO-OPEN%20APP-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://camera-gestures-react-responsive-ha.vercel.app/)
 
 ---
 
